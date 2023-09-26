@@ -71,5 +71,31 @@ void main()
 }
 
 
-// #pragma : 컴파일러의 시능을 확장시킬수 있도록 하는 기능
+// #pragma : 컴파일러의 기능을 확장시킬수 있도록 하는 기능
+// #pragma once : 컴파일러에게 해당 헤더 파일이 한번만 포함되도록 요청합니다.0
+//사용자가 직접 만든 헤더파일을 여러번 컴파일할 필요없이 키워드 한번의 사용으로 인식시키게 하는 기능
+// #pragma comment(명령어)  보통 (lib,'라이브러리 이름') : 특정한 라이브러리를 링크 시키는 기능
+// 라이브러리는 개념상으로 헤더파일보다 상위폴더. ex)라이브러리 = 도서관   헤더파일 = 책
+// #pragma warning(disable : code) 특정 코드의 경고를 비활성화 시킴  ex)scanf
 // 
+// #pragma region  확장 축소 할 수 있는 코드 블록을 생성합니다.
+// 프로그램에 아무런 영향 없음.
+// 사용 후 , #pragma endregion으로 끝나야 한다.
+// 보통, 연관된 코드끼리 묶어서 정리할 때 사용 (코드 가독성)
+//
+#pragma region 플레이어 이동 기능
+dasfsafsfsdf
+dsf
+sdfds
+fds
+fd
+fsd
+fsdf
+sf
+sdfsd
+fsd
+fd
+s
+fdsf
+
+#pragma endregion
