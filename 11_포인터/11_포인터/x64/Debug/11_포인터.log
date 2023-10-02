@@ -1,2 +1,6 @@
-﻿  02_포인터와 배열.c
+﻿  03_동적할당.c
+C:\Users\User\Documents\GitHub\UnityStudent\11_포인터\11_포인터\03_동적할당.c(8,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\User\Documents\GitHub\UnityStudent\11_포인터\11_포인터\03_동적할당.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\UnityStudent\11_포인터\11_포인터\03_동적할당.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\UnityStudent\11_포인터\11_포인터\03_동적할당.c(8): warning C4700: 초기화되지 않은 'printCount' 지역 변수를 사용했습니다.
   11_포인터.vcxproj -> C:\Users\User\Documents\GitHub\UnityStudent\11_포인터\x64\Debug\11_포인터.exe
